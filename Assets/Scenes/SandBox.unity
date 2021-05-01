@@ -401,17 +401,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1916804423, guid: 1c2d2115b41da2c4fbb9505ca91991fa, type: 3}
-      propertyPath: thrust
-      value: 500
+    - target: {fileID: 696636831, guid: 1c2d2115b41da2c4fbb9505ca91991fa, type: 3}
+      propertyPath: m_Pitch
+      value: 0.82
       objectReference: {fileID: 0}
-    - target: {fileID: 1916804428, guid: 1c2d2115b41da2c4fbb9505ca91991fa, type: 3}
-      propertyPath: m_Drag
-      value: 0.25
+    - target: {fileID: 696636831, guid: 1c2d2115b41da2c4fbb9505ca91991fa, type: 3}
+      propertyPath: m_Volume
+      value: 0.51
       objectReference: {fileID: 0}
-    - target: {fileID: 1916804428, guid: 1c2d2115b41da2c4fbb9505ca91991fa, type: 3}
-      propertyPath: m_Constraints
-      value: 56
+    - target: {fileID: 696636831, guid: 1c2d2115b41da2c4fbb9505ca91991fa, type: 3}
+      propertyPath: reverbZoneMixCustomCurve.m_Curve.Array.data[0].value
+      value: 1.1
       objectReference: {fileID: 0}
     - target: {fileID: 5478790611373177994, guid: 1c2d2115b41da2c4fbb9505ca91991fa, type: 3}
       propertyPath: m_RootOrder
